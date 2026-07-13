@@ -1,5 +1,6 @@
 # CHIP 3.7: Wordguesser: a scaffolded (!) ESaaS getting-started assignment
 
+LINK: https://word-guesser-gv1k.onrender.com
 
 (v1.1, September 2015.  Written by Armando Fox and Nick Herson)
 (some edits by mverdicchio 21 September 2015)
